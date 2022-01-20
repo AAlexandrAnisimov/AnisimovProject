@@ -1,0 +1,6 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+input.input-text{
+    border-bottom: 1px solid #ffffff!important;
+    box-shadow: 0 1px 0 0 #ffffff!important;
+}
